@@ -1,0 +1,16 @@
+{
+  "name": "brisk-mini",
+  "version": "3.0.0",
+  "description": "Brisk Mini - a fast, data-saving mobile browser with a built-in 30-game hub.",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

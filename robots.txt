@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://briskmini.vercel.app/sitemap.xml
